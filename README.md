@@ -1,4 +1,4 @@
-# Block-Chain Based Voting System
+# E-Nirvachan: Block-Chain Based Voting System
 
 This project is blockchain based voting dapp created in React and Solidity.
 
@@ -10,13 +10,14 @@ Poushali Chattopadhyay : https://github.com/poushalic34/E-Nirvachan
 
 ## Project Description
 
-“Blockchain Based Voting System” is a web based online voting system primarily based on ethereum blockchain technology. Blockchain is a transparent, distributed, immutable and trustless ledger and to overcome the problems of the traditional voting system, blockchain plays a vital role in terms of security, trust and more. Here anyone eligible for voting can vote for their favorite candidate and they can see the result after the end of the election. It is fast, secure, and has low cost as compared to traditional voting systems. Some key features of our system are:
+“E-Nirvachan” is a decentralised online voting system primarily based on ethereum blockchain technology and React JS along with web 3.0. Blockchain is a transparent, distributed, immutable and trustless ledger and to overcome the problems of the traditional voting system, blockchain plays a vital role in terms of security, trust and more. Here anyone eligible for voting can vote for their favorite candidate and they can see the result after the end of the election. It is fast, secure, and has low cost as compared to traditional voting systems. Some key features of our system are:
 
 a) Decentralized & Transparent
 
 b) Trustless
 
 c) Immutable
+
 ## Installation
 
 ### Step 1. Clone the project
