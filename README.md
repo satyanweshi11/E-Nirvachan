@@ -4,9 +4,7 @@ This project is blockchain based voting dapp created in React and Solidity.
 
 ## Contributors
 
-Bishal Chakraborty : https://www.linkedin.com/in/chakraborty11bishal   &
-Poushali Chattopadhyay : https://github.com/poushalic34/E-Nirvachan
-                         https://www.linkedin.com/in/poushali-chattopadhyay
+Bishal Chakraborty : https://www.linkedin.com/in/chakraborty11bishal
 
 ## Project Description
 
